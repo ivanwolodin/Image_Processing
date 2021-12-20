@@ -6,7 +6,9 @@ GUI
 https://www.mathworks.com/products/compiler/mcr.html 
 Также вспомогательный .exe для запуска «IAB Image Processing» находится в папке с программой (MCR_R2014a_win64_installer.exe). 
 
-[Внешний вид приложения](https://user-images.githubusercontent.com/20774458/146740048-6ad74655-db08-496a-b47e-861c71283a1f.png)
+Графический интерфейс приложения:
+
+![Внешний вид приложения](https://user-images.githubusercontent.com/20774458/146740065-32b29150-7e8b-4b30-8d6b-1f1fb6fc3ace.png)
 
 Приложение анализирует продольную и поперечную длины черно-белых снимков, полученных на приборе ИАБ-451. 
 
